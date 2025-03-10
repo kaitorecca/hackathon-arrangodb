@@ -5,7 +5,7 @@
 
 **YouTube Demo:** [Insert URL]  
 
-** Notebook file:*** db.ipynb
+**Notebook file:** db.ipynb
 
 ---
 
