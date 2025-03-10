@@ -2,7 +2,10 @@
 ## ArangoDB GraphRAG Hackathon Submission
 
 **Author:** Tai Tran
+
 **YouTube Demo:** [Insert URL]  
+
+** Notebook file:*** db.ipynb
 
 ---
 
